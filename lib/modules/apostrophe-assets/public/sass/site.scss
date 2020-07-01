@@ -1,0 +1,34 @@
+$color-1: "green";
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: $color-1;
+}
+
+.carousel-inner {
+    height: 85vh;
+}
+
+p {
+    color: red;
+}
+
+div {
+    font-size: 105px;
+}
+
+li {
+    color: blue;
+}
+
+.testing {
+    width: percentage(5/7);
+}
+
+.hrm {
+    width: percentage(1/2);
+}
